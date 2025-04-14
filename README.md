@@ -22,7 +22,7 @@ When the service is deployed and running, the service will be accessible via the
 
 1. 
 
-Upon running the image as a container, you should have already seen the following message:
+Upon deploying the image you should have already seen the following message in the console:
     
     "Hello, I'm listening to port 3040
     You can see my results on Postman or at http://localhost:3040"
